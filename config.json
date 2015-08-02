@@ -1,0 +1,5 @@
+{
+  "getIssuesFromLink" : 1,
+  "issueRepository" : "arcais/github-issue-scraper",
+  "numberOfIssues": 1
+}
